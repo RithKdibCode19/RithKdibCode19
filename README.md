@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Glad to have you here 🚀
 ## 👨‍💻 About Me
 - 🔭 Currently working as an **IT Officer** at Champion Group
 - 🎓 3rd-year **Software Engineering** student
-- 🌱 Currently learning **Laravel**, **React**, **Java**, and **Next.js**
+- 🌱 Currently learning **Laravel**, **Java**, and **Next.js**
 - 🎯 Career goals: Become a **Backend Developer**, **Mobile App Developer**, and **Software Developer**
 - ⚡ Fun fact: I enjoy researching and exploring new technologies!
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Glad to have you here 🚀
 - MySQL, SQL Server, Oracle
 
 ### 🧰 Frameworks & Libraries
-- Laravel, React, Spring
+- Laravel, React, Spring, Next.js
 
 ### 🔧 Tools & Platforms
 - Git, Linux, Visual Studio Code
