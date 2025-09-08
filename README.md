@@ -1,18 +1,34 @@
-## Hi there, I'm Thearith 👋
+# 👋 Hi there, I'm Thearith
 
-Welcome to my GitHub profile! 🚀
+Welcome to my GitHub profile! Glad to have you here 🚀
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working an IT Officer in Champion Group
-- 🎓 I'm currently studying year 3 in software engineering
-- 🌱 I’m currently learning Laravel, React, Java, NextJS
-- 🎯 Goal: Become a Backend Developer, Mobile Developer, and Software Developer
-- ⚡ Fun fact: I like to research
-- 
+- 🔭 Currently working as an **IT Officer** at Champion Group
+- 🎓 3rd-year **Software Engineering** student
+- 🌱 Currently learning **Laravel**, **React**, **Java**, and **Next.js**
+- 🎯 Career goals: Become a **Backend Developer**, **Mobile App Developer**, and **Software Developer**
+- ⚡ Fun fact: I enjoy researching and exploring new technologies!
+
 ## 🛠 Tech Stack
-- **Languages:** PHP, Java, JavaScript, C++, C, C#, MySQL, SQL Server, Oracle
-- **Frameworks:** Laravel, React, Spring 
-- **Tools:** Git, Linux, VS Code
+
+### 💻 Languages
+- PHP, Java, JavaScript, C++, C, C#, MySQL, SQL Server, Oracle
+
+### 🧰 Frameworks & Libraries
+- Laravel, React, Spring
+
+### 🔧 Tools & Platforms
+- Git, Linux, Visual Studio Code
 
 ## 📊 GitHub Stats
-[Thearith's GitHub stats](https://github.com/RithKdibCode19)
+![Thearith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RithKdibCode19&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RithKdibCode19&layout=compact&theme=radical)
+
+> 🚧 GitHub Stats will appear here once you've enabled them with GitHub Readme Stats or a similar tool. For now, you can link your profile directly:
+
+👉 [Visit My GitHub Profile](https://github.com/RithKdibCode19)
+
+---
+
+Thanks for stopping by! Feel free to connect with me or explore my repositories.
