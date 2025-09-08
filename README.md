@@ -15,4 +15,4 @@ Welcome to my GitHub profile! 🚀
 - **Tools:** Git, Linux, VS Code
 
 ## 📊 GitHub Stats
-![Thearith's GitHub stats](https://github.com/RithKdibCode19)
+![Thearith's GitHub stats](https://github.com/RithKdibCode19?tab=repositories)
