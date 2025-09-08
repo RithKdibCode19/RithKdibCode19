@@ -12,7 +12,10 @@ Welcome to my GitHub profile! Glad to have you here 🚀
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-- PHP, Java, JavaScript, C++, C, C#, MySQL, SQL Server, Oracle
+- PHP, Java, JavaScript, C++, C, C#
+  
+### 👜 Database
+- MySQL, SQL Server, Oracle
 
 ### 🧰 Frameworks & Libraries
 - Laravel, React, Spring
