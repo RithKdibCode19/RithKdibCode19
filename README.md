@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Thearith 👋
 
-<!--
-**RithKdibCode19/RithKdibCode19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 I’m currently working an IT Officer in Champion Group
+- 🎓 I'm currently studying year 3 in software engineering
+- 🌱 I’m currently learning Laravel, React, Java, NextJS
+- 🎯 Goal: Become a Backend Developer, Mobile Developer, and Software Developer
+- ⚡ Fun fact: I like to research
+- 
+## 🛠 Tech Stack
+- **Languages:** PHP, Java, JavaScript, C++, C, C#, MySQL, SQL Server, Oracle
+- **Frameworks:** Laravel, React, Spring 
+- **Tools:** Git, Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Thearith's GitHub stats](https://github.com/RithKdibCode19)
